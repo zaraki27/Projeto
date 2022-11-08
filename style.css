@@ -1,0 +1,31 @@
+body{
+  background-color: #CCCCCC;
+}
+#logotipo{
+  width: 200px;
+  border: 5px solid blue;
+  margin-left: 10px;
+}
+.menu{
+  border: 5px solid red;
+}
+nav li {
+  display: inline;
+  border: 2px solid blue;
+}
+h1 {
+  text-align: center; color: rgb(20, 23, 45); font-size: 25px
+}
+
+p {
+  text-align: left; color: black; font-size: 25px
+}
+
+#fotoinício{
+  width: 20%;
+  border: 5px solid white;
+  margin-left: 530px;
+}
+.modelos{
+  text-align: justify; font-size: 25px; color: blue
+}
